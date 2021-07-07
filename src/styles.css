@@ -104,3 +104,7 @@ p.episode-runtime {
   margin-top: 8px;
   font-size: 0.8rem;
 }
+
+.show-selection {
+  margin: 20px auto;
+}
